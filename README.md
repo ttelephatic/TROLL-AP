@@ -10,7 +10,9 @@ CH340 sürücüsü (Lolin V3 kartlarda genelde CH340 çipi bulunur. Kart USB'de 
 1. Arduino IDE'yi aç.
 2. Bu kodunu temiz bir sayfaya yapıştır.
 3. NodeMCU kartını bilgisayara bağla.
-4. Sol üstteki Yükle (Ok işareti →) butonuna bas
+4. Sol üstteki Yükle (Ok işareti) butonuna bas
+
+- veya başka program kullan, yapman gerekenler programa göre değişir. 
 
 # Not:
 Bu proje sadece eğlence amaçlıdır. Gerçek ağ isimlerini (operatör, kafe, okul, iş yeri vb.) taklit etme. Karışıklığa yol açabilir ve istenmeyen sonuçlar doğurabilir.
